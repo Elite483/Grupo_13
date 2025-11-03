@@ -1,0 +1,2577 @@
+fileFormatVersion: 2
+guid: daaabc36c15fc5a45b2ae6a930fff90e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2088626842182328956
+    second: gaucho idle_0
+  - first:
+      213: 2516524295317701024
+    second: gaucho idle_1
+  - first:
+      213: 3029404011244014586
+    second: gaucho idle_2
+  - first:
+      213: -5387754679323538386
+    second: gaucho idle_3
+  - first:
+      213: 2195608239186598445
+    second: gaucho idle_4
+  - first:
+      213: 501041332171461817
+    second: gaucho idle_5
+  - first:
+      213: -4702232124056061591
+    second: gaucho idle_6
+  - first:
+      213: 1678730717842082253
+    second: gaucho idle_7
+  - first:
+      213: -6198039528825432473
+    second: gaucho idle_8
+  - first:
+      213: 3847517671912461961
+    second: gaucho idle_9
+  - first:
+      213: -5954723701838834079
+    second: gaucho idle_10
+  - first:
+      213: -3058600878464546116
+    second: gaucho idle_11
+  - first:
+      213: 6908093168387149597
+    second: gaucho idle_12
+  - first:
+      213: -6444764303082386117
+    second: gaucho idle_13
+  - first:
+      213: -5237346308137946369
+    second: gaucho idle_14
+  - first:
+      213: -7007587890703479118
+    second: gaucho idle_15
+  - first:
+      213: -3155731986820465650
+    second: gaucho idle_16
+  - first:
+      213: 542361546791479539
+    second: gaucho idle_17
+  - first:
+      213: -4178296720829198625
+    second: gaucho idle_18
+  - first:
+      213: 3885013383890731967
+    second: gaucho idle_19
+  - first:
+      213: 3309981132015796791
+    second: gaucho idle_20
+  - first:
+      213: 7006090814689716667
+    second: gaucho idle_21
+  - first:
+      213: -1770287164234849762
+    second: gaucho idle_22
+  - first:
+      213: -8557357061854580897
+    second: gaucho idle_23
+  - first:
+      213: -7536267246257578222
+    second: gaucho idle_24
+  - first:
+      213: -5070368761412089313
+    second: gaucho idle_25
+  - first:
+      213: 6748895745145867768
+    second: gaucho idle_26
+  - first:
+      213: -5434272176595046623
+    second: gaucho idle_27
+  - first:
+      213: -3256246304900626413
+    second: gaucho idle_28
+  - first:
+      213: 5299510553394564225
+    second: gaucho idle_29
+  - first:
+      213: 3015264546239622403
+    second: gaucho idle_30
+  - first:
+      213: -41190315407335220
+    second: gaucho idle_31
+  - first:
+      213: -6703533395874596473
+    second: gaucho idle_32
+  - first:
+      213: -7016861179572813210
+    second: gaucho idle_33
+  - first:
+      213: 5349844018177487334
+    second: gaucho idle_34
+  - first:
+      213: -273571124089202072
+    second: gaucho idle_35
+  - first:
+      213: 2713835669158317326
+    second: gaucho idle_36
+  - first:
+      213: -4762035010273924543
+    second: gaucho idle_37
+  - first:
+      213: 7444028589240705116
+    second: gaucho idle_38
+  - first:
+      213: 282778689281832866
+    second: gaucho idle_39
+  - first:
+      213: 2656026567308774954
+    second: gaucho idle_40
+  - first:
+      213: -3995517293189974679
+    second: gaucho idle_41
+  - first:
+      213: 1986092420679242130
+    second: gaucho idle_42
+  - first:
+      213: 4549369820878583228
+    second: gaucho idle_43
+  - first:
+      213: -6533722476856825504
+    second: gaucho idle_44
+  - first:
+      213: 8888610506836590758
+    second: gaucho idle_45
+  - first:
+      213: -1650243172092203801
+    second: gaucho idle_46
+  - first:
+      213: 4778020844089193656
+    second: gaucho idle_47
+  - first:
+      213: -7313053193384602838
+    second: gaucho idle_48
+  - first:
+      213: -6591475889101094109
+    second: gaucho idle_49
+  - first:
+      213: 5013377963181576750
+    second: gaucho idle_50
+  - first:
+      213: -5597630313565940131
+    second: gaucho idle_51
+  - first:
+      213: -3467882172328762974
+    second: gaucho idle_52
+  - first:
+      213: -6383101018437789662
+    second: gaucho idle_53
+  - first:
+      213: -8695945237276338795
+    second: gaucho idle_54
+  - first:
+      213: -7029992967978085360
+    second: gaucho idle_55
+  - first:
+      213: -4835092851664218372
+    second: gaucho idle_56
+  - first:
+      213: 7795751266179250358
+    second: gaucho idle_57
+  - first:
+      213: -8306763135212629739
+    second: gaucho idle_58
+  - first:
+      213: 9028286710569147051
+    second: gaucho idle_59
+  - first:
+      213: -6723223701893009934
+    second: gaucho idle_60
+  - first:
+      213: 5664147297711633580
+    second: gaucho idle_61
+  - first:
+      213: 2418601669191998194
+    second: gaucho idle_62
+  - first:
+      213: 3464832214610882972
+    second: gaucho idle_63
+  - first:
+      213: 5279961932509997958
+    second: gaucho idle_64
+  - first:
+      213: -3742294946603743308
+    second: gaucho idle_65
+  - first:
+      213: 8346290040576608475
+    second: gaucho idle_66
+  - first:
+      213: -1532901946879080640
+    second: gaucho idle_67
+  - first:
+      213: 1900785790325152588
+    second: gaucho idle_68
+  - first:
+      213: 1677004235262846026
+    second: gaucho idle_69
+  - first:
+      213: -4772691620863308483
+    second: gaucho idle_70
+  - first:
+      213: 3713383654037153959
+    second: gaucho idle_71
+  - first:
+      213: 8431154532637461369
+    second: gaucho idle_72
+  - first:
+      213: 2557045060974875936
+    second: gaucho idle_73
+  - first:
+      213: -7147079866456617485
+    second: gaucho idle_74
+  - first:
+      213: 2959410071396594901
+    second: gaucho idle_75
+  - first:
+      213: -8211818807080961215
+    second: gaucho idle_76
+  - first:
+      213: 7355103223504186007
+    second: gaucho idle_77
+  - first:
+      213: -1407779032215395836
+    second: gaucho idle_78
+  - first:
+      213: 4244738833014802477
+    second: gaucho idle_79
+  - first:
+      213: -2006200254294189341
+    second: gaucho idle_80
+  - first:
+      213: 7783343544332455763
+    second: gaucho idle_81
+  - first:
+      213: -1562974541362793382
+    second: gaucho idle_82
+  - first:
+      213: 1346481696124850472
+    second: gaucho idle_83
+  - first:
+      213: -3435441302279110707
+    second: gaucho idle_84
+  - first:
+      213: -989171209835008935
+    second: gaucho idle_85
+  - first:
+      213: -2631948020101786264
+    second: gaucho idle_86
+  - first:
+      213: 2577686746126306802
+    second: gaucho idle_87
+  - first:
+      213: 7218117114155651936
+    second: gaucho idle_88
+  - first:
+      213: 6708220876759252377
+    second: gaucho idle_89
+  - first:
+      213: 1568120544790207607
+    second: gaucho idle_90
+  - first:
+      213: -9055271892965261775
+    second: gaucho idle_91
+  - first:
+      213: 3789905003896770141
+    second: gaucho idle_92
+  - first:
+      213: -2871831630010790670
+    second: gaucho idle_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gaucho idle_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1418
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 8, y: -1}
+        - {x: 14, y: 9}
+        - {x: 14, y: 16}
+        - {x: 12, y: 17}
+        - {x: -11, y: 17}
+        - {x: -12, y: 16}
+        - {x: -14, y: 13}
+        - {x: -11, y: 5}
+        - {x: -11, y: -9}
+        - {x: -7, y: -10}
+        - {x: -4, y: -16}
+        - {x: 6, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72af940c0b4cfc10800000000000000
+      internalID: 2088626842182328956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1418
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a14d03738d7ce220800000000000000
+      internalID: 2516524295317701024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1418
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc753d5ea9a0a20800000000000000
+      internalID: 3029404011244014586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1418
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc8f92aa9da35b0800000000000000
+      internalID: -5387754679323538386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1431
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a53aa8f0e587e10800000000000000
+      internalID: 2195608239186598445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1437
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45edddf6e04f600800000000000000
+      internalID: 501041332171461817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1431
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693532fbc05ebeb0800000000000000
+      internalID: -4702232124056061591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1422
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9838e81bc0c4710800000000000000
+      internalID: 1678730717842082253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1385
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d78c13e32cf9a0800000000000000
+      internalID: -6198039528825432473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1352
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986516500f0256530800000000000000
+      internalID: 3847517671912461961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1319
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661c48b7529c5da0800000000000000
+      internalID: -5954723701838834079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1286
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4c69c4baad85d0800000000000000
+      internalID: -3058600878464546116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1187
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc401d22a7edf50800000000000000
+      internalID: 6908093168387149597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d08ad13099f86a0800000000000000
+      internalID: -6444764303082386117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1187
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2fbb908453157b0800000000000000
+      internalID: -5237346308137946369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4a42f0fb00ce90800000000000000
+      internalID: -7007587890703479118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1187
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7a3f4a769434d0800000000000000
+      internalID: -3155731986820465650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8665804fad68700800000000000000
+      internalID: 542361546791479539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1187
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdecbcc1545b306c0800000000000000
+      internalID: -4178296720829198625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30276c6175ae530800000000000000
+      internalID: 3885013383890731967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1121
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320c037d4a6fed20800000000000000
+      internalID: 3309981132015796791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1088
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb925b1e972aa3160800000000000000
+      internalID: 7006090814689716667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1121
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122959143dae67e0800000000000000
+      internalID: -1770287164234849762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1088
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f2aff47192e3980800000000000000
+      internalID: -8557357061854580897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1121
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fd76e4edcc96790800000000000000
+      internalID: -7536267246257578222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1088
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8bc7b97e62a9b0800000000000000
+      internalID: -5070368761412089313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1121
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd809b4ce4e8ad50800000000000000
+      internalID: 6748895745145867768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1088
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f63455f369594b0800000000000000
+      internalID: -5434272176595046623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1055
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318483fec3d7fc2d0800000000000000
+      internalID: -3256246304900626413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1022
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c448235c4ab8940800000000000000
+      internalID: 5299510553394564225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1055
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d2176112f58d920800000000000000
+      internalID: 3015264546239622403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1022
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a5f950a9ad6ff0800000000000000
+      internalID: -41190315407335220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1055
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7893deea4e348f2a0800000000000000
+      internalID: -6703533395874596473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1022
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66285512fe91f9e90800000000000000
+      internalID: -7016861179572813210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1055
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b7333ac67e3a40800000000000000
+      internalID: 5349844018177487334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1022
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86adbd71384143cf0800000000000000
+      internalID: -273571124089202072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 957
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d47fe992b79a520800000000000000
+      internalID: 2713835669158317326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 891
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a26a4736ad9edb0800000000000000
+      internalID: -4762035010273924543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 957
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506b8fcf808e4760800000000000000
+      internalID: 7444028589240705116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 891
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b1bc38b1ace300800000000000000
+      internalID: 282778689281832866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 957
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e807a371a1cd420800000000000000
+      internalID: 2656026567308774954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 891
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653b75e0321d88c0800000000000000
+      internalID: -3995517293189974679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 957
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919ea9a884009b10800000000000000
+      internalID: 1986092420679242130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 891
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b95d9fbb922f30800000000000000
+      internalID: 4549369820878583228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 857
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069a6f1460e8355a0800000000000000
+      internalID: -6533722476856825504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 825
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ccce7920ba5b70800000000000000
+      internalID: 8888610506836590758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 824
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2e6e04982919e0800000000000000
+      internalID: -1650243172092203801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 857
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4395584a0fe4240800000000000000
+      internalID: 4778020844089193656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 824
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2356c8edd0d28a90800000000000000
+      internalID: -7313053193384602838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 857
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c39c1a9f5684a0800000000000000
+      internalID: -6591475889101094109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 857
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22953c02b8139540800000000000000
+      internalID: 5013377963181576750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 824
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5691f723e83152b0800000000000000
+      internalID: -5597630313565940131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 792
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12f63b98b9fdfc0800000000000000
+      internalID: -3467882172328762974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 759
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228d49e517baa67a0800000000000000
+      internalID: -6383101018437789662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 758
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595d4e931ebc15780800000000000000
+      internalID: -8695945237276338795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 791
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141c2264a2707e90800000000000000
+      internalID: -7029992967978085360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 791
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf616883bac46ecb0800000000000000
+      internalID: -4835092851664218372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 758
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87ae11972103c60800000000000000
+      internalID: 7795751266179250358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 758
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511575c80f278bc80800000000000000
+      internalID: -8306763135212629739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 791
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9ad9edeaea4d70800000000000000
+      internalID: 9028286710569147051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 726
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd2e2f0aaf42b2a0800000000000000
+      internalID: -6723223701893009934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 692
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4379315f71b9e40800000000000000
+      internalID: 5664147297711633580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 725
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa1b516769909120800000000000000
+      internalID: 2418601669191998194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 692
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91363eaa8e851030800000000000000
+      internalID: 3464832214610882972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 725
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be7d63761364940800000000000000
+      internalID: 5279961932509997958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 692
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c1f6d292b01cc0800000000000000
+      internalID: -3742294946603743308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_66
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 725
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd803f4429af3d370800000000000000
+      internalID: 8346290040576608475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 692
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04784cc0dc90abae0800000000000000
+      internalID: -1532901946879080640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 660
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd0720b92f06a10800000000000000
+      internalID: 1900785790325152588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 627
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44eaa1877ae54710800000000000000
+      internalID: 1677004235262846026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 626
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d85f3f14ef3cdb0800000000000000
+      internalID: -4772691620863308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 659
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a860ad42c6988330800000000000000
+      internalID: 3713383654037153959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 626
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc744906a710570800000000000000
+      internalID: 8431154532637461369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 659
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02513166fe27c7320800000000000000
+      internalID: 2557045060974875936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 659
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc1827ab870dc90800000000000000
+      internalID: -7147079866456617485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 626
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4be42c7cfe11920800000000000000
+      internalID: 2959410071396594901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 594
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b31149d42c90e80800000000000000
+      internalID: -8211818807080961215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 561
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2c4ba963921660800000000000000
+      internalID: 7355103223504186007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 593
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ee8ecd60967ce0800000000000000
+      internalID: -1407779032215395836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 560
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d284722aa7758ea30800000000000000
+      internalID: 4244738833014802477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 593
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1f7e7f7b8824e0800000000000000
+      internalID: -2006200254294189341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 560
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f04c437bdf30c60800000000000000
+      internalID: 7783343544332455763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 593
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5477158fe23f4ae0800000000000000
+      internalID: -1562974541362793382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821561af7f9afa210800000000000000
+      internalID: 1346481696124850472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 528
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb2fa565cd250d0800000000000000
+      internalID: -3435441302279110707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 362
+        width: 39
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cadb78602c542f0800000000000000
+      internalID: -989171209835008935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 527
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655a8a6831797bd0800000000000000
+      internalID: -2631948020101786264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_87
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 527
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd471d3078c5c320800000000000000
+      internalID: 2577686746126306802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 527
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635a68a547eb2460800000000000000
+      internalID: 7218117114155651936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_89
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 263
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d38128853681d50800000000000000
+      internalID: 6708220876759252377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_90
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c5635c35513c510800000000000000
+      internalID: 1568120544790207607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_91
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 207
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef933b036355280800000000000000
+      internalID: -9055271892965261775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 79
+        width: 16
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e0eb17582789430800000000000000
+      internalID: 3789905003896770141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho idle_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 179
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc97e19543528d0800000000000000
+      internalID: -2871831630010790670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51b288211f0c5f74abce1e3e652ed446
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      gaucho idle_0: 2088626842182328956
+      gaucho idle_1: 2516524295317701024
+      gaucho idle_10: -5954723701838834079
+      gaucho idle_11: -3058600878464546116
+      gaucho idle_12: 6908093168387149597
+      gaucho idle_13: -6444764303082386117
+      gaucho idle_14: -5237346308137946369
+      gaucho idle_15: -7007587890703479118
+      gaucho idle_16: -3155731986820465650
+      gaucho idle_17: 542361546791479539
+      gaucho idle_18: -4178296720829198625
+      gaucho idle_19: 3885013383890731967
+      gaucho idle_2: 3029404011244014586
+      gaucho idle_20: 3309981132015796791
+      gaucho idle_21: 7006090814689716667
+      gaucho idle_22: -1770287164234849762
+      gaucho idle_23: -8557357061854580897
+      gaucho idle_24: -7536267246257578222
+      gaucho idle_25: -5070368761412089313
+      gaucho idle_26: 6748895745145867768
+      gaucho idle_27: -5434272176595046623
+      gaucho idle_28: -3256246304900626413
+      gaucho idle_29: 5299510553394564225
+      gaucho idle_3: -5387754679323538386
+      gaucho idle_30: 3015264546239622403
+      gaucho idle_31: -41190315407335220
+      gaucho idle_32: -6703533395874596473
+      gaucho idle_33: -7016861179572813210
+      gaucho idle_34: 5349844018177487334
+      gaucho idle_35: -273571124089202072
+      gaucho idle_36: 2713835669158317326
+      gaucho idle_37: -4762035010273924543
+      gaucho idle_38: 7444028589240705116
+      gaucho idle_39: 282778689281832866
+      gaucho idle_4: 2195608239186598445
+      gaucho idle_40: 2656026567308774954
+      gaucho idle_41: -3995517293189974679
+      gaucho idle_42: 1986092420679242130
+      gaucho idle_43: 4549369820878583228
+      gaucho idle_44: -6533722476856825504
+      gaucho idle_45: 8888610506836590758
+      gaucho idle_46: -1650243172092203801
+      gaucho idle_47: 4778020844089193656
+      gaucho idle_48: -7313053193384602838
+      gaucho idle_49: -6591475889101094109
+      gaucho idle_5: 501041332171461817
+      gaucho idle_50: 5013377963181576750
+      gaucho idle_51: -5597630313565940131
+      gaucho idle_52: -3467882172328762974
+      gaucho idle_53: -6383101018437789662
+      gaucho idle_54: -8695945237276338795
+      gaucho idle_55: -7029992967978085360
+      gaucho idle_56: -4835092851664218372
+      gaucho idle_57: 7795751266179250358
+      gaucho idle_58: -8306763135212629739
+      gaucho idle_59: 9028286710569147051
+      gaucho idle_6: -4702232124056061591
+      gaucho idle_60: -6723223701893009934
+      gaucho idle_61: 5664147297711633580
+      gaucho idle_62: 2418601669191998194
+      gaucho idle_63: 3464832214610882972
+      gaucho idle_64: 5279961932509997958
+      gaucho idle_65: -3742294946603743308
+      gaucho idle_66: 8346290040576608475
+      gaucho idle_67: -1532901946879080640
+      gaucho idle_68: 1900785790325152588
+      gaucho idle_69: 1677004235262846026
+      gaucho idle_7: 1678730717842082253
+      gaucho idle_70: -4772691620863308483
+      gaucho idle_71: 3713383654037153959
+      gaucho idle_72: 8431154532637461369
+      gaucho idle_73: 2557045060974875936
+      gaucho idle_74: -7147079866456617485
+      gaucho idle_75: 2959410071396594901
+      gaucho idle_76: -8211818807080961215
+      gaucho idle_77: 7355103223504186007
+      gaucho idle_78: -1407779032215395836
+      gaucho idle_79: 4244738833014802477
+      gaucho idle_8: -6198039528825432473
+      gaucho idle_80: -2006200254294189341
+      gaucho idle_81: 7783343544332455763
+      gaucho idle_82: -1562974541362793382
+      gaucho idle_83: 1346481696124850472
+      gaucho idle_84: -3435441302279110707
+      gaucho idle_85: -989171209835008935
+      gaucho idle_86: -2631948020101786264
+      gaucho idle_87: 2577686746126306802
+      gaucho idle_88: 7218117114155651936
+      gaucho idle_89: 6708220876759252377
+      gaucho idle_9: 3847517671912461961
+      gaucho idle_90: 1568120544790207607
+      gaucho idle_91: -9055271892965261775
+      gaucho idle_92: 3789905003896770141
+      gaucho idle_93: -2871831630010790670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

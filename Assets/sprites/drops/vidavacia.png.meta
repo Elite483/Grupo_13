@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: cc19cc7dbdb6c494292e4dd8b3e4fcfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4977522698075072388
+    second: vidavacia_0
+  - first:
+      213: -3235337881172355727
+    second: vidavacia_1
+  - first:
+      213: 8702238102394051653
+    second: vidavacia_2
+  - first:
+      213: -7374206880923277030
+    second: vidavacia_3
+  - first:
+      213: -3269025391007558422
+    second: vidavacia_4
+  - first:
+      213: 2348742098691300721
+    second: vidavacia_5
+  - first:
+      213: 2959080211639759189
+    second: vidavacia_6
+  - first:
+      213: -2035419219677789908
+    second: vidavacia_7
+  - first:
+      213: 8358382755108205519
+    second: vidavacia_8
+  - first:
+      213: 1148858857216316095
+    second: vidavacia_9
+  - first:
+      213: 5790549359998623175
+    second: vidavacia_10
+  - first:
+      213: 5481447996944491359
+    second: vidavacia_11
+  - first:
+      213: 831051058261902939
+    second: vidavacia_12
+  - first:
+      213: -20668779292941102
+    second: vidavacia_13
+  - first:
+      213: -3475041720609400845
+    second: vidavacia_14
+  - first:
+      213: -1822788983149987245
+    second: vidavacia_15
+  - first:
+      213: 6968755069916696735
+    second: vidavacia_16
+  - first:
+      213: 1001213539455578414
+    second: vidavacia_17
+  - first:
+      213: 5148434665692101759
+    second: vidavacia_18
+  - first:
+      213: -5086834794492598518
+    second: vidavacia_19
+  - first:
+      213: -3849591905609903537
+    second: vidavacia_20
+  - first:
+      213: -874250432293318959
+    second: vidavacia_21
+  - first:
+      213: 2403618744133747062
+    second: vidavacia_22
+  - first:
+      213: 616431781060224872
+    second: vidavacia_23
+  - first:
+      213: -3789140228740682426
+    second: vidavacia_24
+  - first:
+      213: 3981460259485890575
+    second: vidavacia_25
+  - first:
+      213: 389596125033808510
+    second: vidavacia_26
+  - first:
+      213: -8395965062128501984
+    second: vidavacia_27
+  - first:
+      213: -1876714368552233908
+    second: vidavacia_28
+  - first:
+      213: 969490798318756759
+    second: vidavacia_29
+  - first:
+      213: 4111956635071815125
+    second: vidavacia_30
+  - first:
+      213: -4168223205860753081
+    second: vidavacia_31
+  - first:
+      213: -8054285238257765409
+    second: vidavacia_32
+  - first:
+      213: -2725869313643348223
+    second: vidavacia_33
+  - first:
+      213: -8866335837553208194
+    second: vidavacia_34
+  - first:
+      213: 6249440758437512363
+    second: vidavacia_35
+  - first:
+      213: 4587711245319751597
+    second: vidavacia_36
+  - first:
+      213: -7550364821563888873
+    second: vidavacia_37
+  - first:
+      213: -4991727977141017280
+    second: vidavacia_38
+  - first:
+      213: 1977900063932544867
+    second: vidavacia_39
+  - first:
+      213: -2112631366763198163
+    second: vidavacia_40
+  - first:
+      213: 5853555219235056740
+    second: vidavacia_41
+  - first:
+      213: -7407369967590772295
+    second: vidavacia_42
+  - first:
+      213: -6412260246256707694
+    second: vidavacia_43
+  - first:
+      213: 2951232217742793010
+    second: vidavacia_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vidavacia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c789ac76a794ceab0800000000000000
+      internalID: -4977522698075072388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755b50b655c913d0800000000000000
+      internalID: -3235337881172355727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 235
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c111c927f84c870800000000000000
+      internalID: 8702238102394051653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a35a79ed89a990800000000000000
+      internalID: -7374206880923277030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae413471ab612a2d0800000000000000
+      internalID: -3269025391007558422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d108d9e78689020800000000000000
+      internalID: 2348742098691300721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 202
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551fcac46c3c01920800000000000000
+      internalID: 2959080211639759189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c214a1af00db0c3e0800000000000000
+      internalID: -2035419219677789908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3b9f6c4d0fef370800000000000000
+      internalID: 8358382755108205519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 191
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb290713b0191ff00800000000000000
+      internalID: 1148858857216316095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd551996f92c5050800000000000000
+      internalID: 5790549359998623175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 180
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5327a849e3021c40800000000000000
+      internalID: 5481447996944491359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 169
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56c9edc88c788b00800000000000000
+      internalID: 831051058261902939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ad40dad196bff0800000000000000
+      internalID: -20668779292941102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 158
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71a6777fb26cfc0800000000000000
+      internalID: -3475041720609400845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 147
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a79dec31724b6e0800000000000000
+      internalID: -1822788983149987245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90561560ddf5b060800000000000000
+      internalID: 6968755069916696735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 134
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21bf83d86605ed00800000000000000
+      internalID: 1001213539455578414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 136
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c72e50d0ae27740800000000000000
+      internalID: 5148434665692101759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 123
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07eb23a4bee769b0800000000000000
+      internalID: -5086834794492598518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 125
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4217efce80839ac0800000000000000
+      internalID: -3849591905609903537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 114
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1decc622dd90ed3f0800000000000000
+      internalID: -874250432293318959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671009b438e5b5120800000000000000
+      internalID: 2403618744133747062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8672b5a50710e8800800000000000000
+      internalID: 616431781060224872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64de4c5a9054a6bc0800000000000000
+      internalID: -3789140228740682426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08bdf5e20df04730800000000000000
+      internalID: 3981460259485890575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 90
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72428e8c9f186500800000000000000
+      internalID: 389596125033808510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 88
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b7d3d724a8b7b80800000000000000
+      internalID: -8395965062128501984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44929d993294f5e0800000000000000
+      internalID: -1876714368552233908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793acc69eb2547d00800000000000000
+      internalID: 969490798318756759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd144506ca901930800000000000000
+      internalID: 4111956635071815125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 66
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7414126141f7726c0800000000000000
+      internalID: -4168223205860753081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd339fdcf3e693090800000000000000
+      internalID: -8054285238257765409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f76203d44cb2ad0800000000000000
+      internalID: -2725869313643348223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e745357188274f480800000000000000
+      internalID: -8866335837553208194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 55
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4048342497ab650800000000000000
+      internalID: 6249440758437512363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 44
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da749552213daaf30800000000000000
+      internalID: 4587711245319751597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b2416c237b73790800000000000000
+      internalID: -7550364821563888873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 33
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04561232ad1d9bab0800000000000000
+      internalID: -4991727977141017280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367fbe7f0a9e27b10800000000000000
+      internalID: 1977900063932544867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d294bb217fc6ea2e0800000000000000
+      internalID: -2112631366763198163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 22
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca3ab55710c3150800000000000000
+      internalID: 5853555219235056740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1fad9a24cb33990800000000000000
+      internalID: -7407369967590772295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 11
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297928697431307a0800000000000000
+      internalID: -6412260246256707694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidavacia_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2395f34d012e4f820800000000000000
+      internalID: 2951232217742793010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vidavacia_0: -4977522698075072388
+      vidavacia_1: -3235337881172355727
+      vidavacia_10: 5790549359998623175
+      vidavacia_11: 5481447996944491359
+      vidavacia_12: 831051058261902939
+      vidavacia_13: -20668779292941102
+      vidavacia_14: -3475041720609400845
+      vidavacia_15: -1822788983149987245
+      vidavacia_16: 6968755069916696735
+      vidavacia_17: 1001213539455578414
+      vidavacia_18: 5148434665692101759
+      vidavacia_19: -5086834794492598518
+      vidavacia_2: 8702238102394051653
+      vidavacia_20: -3849591905609903537
+      vidavacia_21: -874250432293318959
+      vidavacia_22: 2403618744133747062
+      vidavacia_23: 616431781060224872
+      vidavacia_24: -3789140228740682426
+      vidavacia_25: 3981460259485890575
+      vidavacia_26: 389596125033808510
+      vidavacia_27: -8395965062128501984
+      vidavacia_28: -1876714368552233908
+      vidavacia_29: 969490798318756759
+      vidavacia_3: -7374206880923277030
+      vidavacia_30: 4111956635071815125
+      vidavacia_31: -4168223205860753081
+      vidavacia_32: -8054285238257765409
+      vidavacia_33: -2725869313643348223
+      vidavacia_34: -8866335837553208194
+      vidavacia_35: 6249440758437512363
+      vidavacia_36: 4587711245319751597
+      vidavacia_37: -7550364821563888873
+      vidavacia_38: -4991727977141017280
+      vidavacia_39: 1977900063932544867
+      vidavacia_4: -3269025391007558422
+      vidavacia_40: -2112631366763198163
+      vidavacia_41: 5853555219235056740
+      vidavacia_42: -7407369967590772295
+      vidavacia_43: -6412260246256707694
+      vidavacia_44: 2951232217742793010
+      vidavacia_5: 2348742098691300721
+      vidavacia_6: 2959080211639759189
+      vidavacia_7: -2035419219677789908
+      vidavacia_8: 8358382755108205519
+      vidavacia_9: 1148858857216316095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
