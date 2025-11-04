@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 69a6eaca00952444e99366f088506a16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6569378844775275161
+    second: vidarojo_0
+  - first:
+      213: 7006488552089052321
+    second: vidarojo_1
+  - first:
+      213: -3851716331274325897
+    second: vidarojo_2
+  - first:
+      213: 6846899997548187779
+    second: vidarojo_3
+  - first:
+      213: 2071898379841248830
+    second: vidarojo_4
+  - first:
+      213: 7130399056294863669
+    second: vidarojo_5
+  - first:
+      213: 1385015868335566631
+    second: vidarojo_6
+  - first:
+      213: -1864763116615529120
+    second: vidarojo_7
+  - first:
+      213: 1238964731723416533
+    second: vidarojo_8
+  - first:
+      213: 4441026998394146443
+    second: vidarojo_9
+  - first:
+      213: 6317144967831281918
+    second: vidarojo_10
+  - first:
+      213: -1581645584580176911
+    second: vidarojo_11
+  - first:
+      213: -11886339759850513
+    second: vidarojo_12
+  - first:
+      213: 7535589202131383665
+    second: vidarojo_13
+  - first:
+      213: -3337326490051159153
+    second: vidarojo_14
+  - first:
+      213: -9186187450184419517
+    second: vidarojo_15
+  - first:
+      213: -8484484367709500092
+    second: vidarojo_16
+  - first:
+      213: -8639855507526135096
+    second: vidarojo_17
+  - first:
+      213: -273310424426329762
+    second: vidarojo_18
+  - first:
+      213: 6178604324590044405
+    second: vidarojo_19
+  - first:
+      213: 6949427621081780531
+    second: vidarojo_20
+  - first:
+      213: -309191524892079933
+    second: vidarojo_21
+  - first:
+      213: 7086276560413345658
+    second: vidarojo_22
+  - first:
+      213: 361152529483621801
+    second: vidarojo_23
+  - first:
+      213: 8780632747786760644
+    second: vidarojo_24
+  - first:
+      213: 7213741533055049092
+    second: vidarojo_25
+  - first:
+      213: 3319772645928915244
+    second: vidarojo_26
+  - first:
+      213: -2025626468718104103
+    second: vidarojo_27
+  - first:
+      213: 2801693411689577789
+    second: vidarojo_28
+  - first:
+      213: 500714133665741985
+    second: vidarojo_29
+  - first:
+      213: -7035981750484806189
+    second: vidarojo_30
+  - first:
+      213: -7647195796057576715
+    second: vidarojo_31
+  - first:
+      213: -2019489526756084512
+    second: vidarojo_32
+  - first:
+      213: 4737372890290124145
+    second: vidarojo_33
+  - first:
+      213: 5852677962322985888
+    second: vidarojo_34
+  - first:
+      213: -162477231638481998
+    second: vidarojo_35
+  - first:
+      213: 6687882886213870665
+    second: vidarojo_36
+  - first:
+      213: -8675363950533017582
+    second: vidarojo_37
+  - first:
+      213: 2427015662523462007
+    second: vidarojo_38
+  - first:
+      213: 6111821699011204632
+    second: vidarojo_39
+  - first:
+      213: -5524838547601301197
+    second: vidarojo_40
+  - first:
+      213: 5278109680693591465
+    second: vidarojo_41
+  - first:
+      213: 7417512223271950208
+    second: vidarojo_42
+  - first:
+      213: -5594106895773040630
+    second: vidarojo_43
+  - first:
+      213: -238926246702290235
+    second: vidarojo_44
+  - first:
+      213: -4519349438037137285
+    second: vidarojo_45
+  - first:
+      213: -1783805868360389254
+    second: vidarojo_46
+  - first:
+      213: 2319603125122143360
+    second: vidarojo_47
+  - first:
+      213: -6827754292990402378
+    second: vidarojo_48
+  - first:
+      213: 72510597039597123
+    second: vidarojo_49
+  - first:
+      213: -2621319033831805593
+    second: vidarojo_50
+  - first:
+      213: 4183831677470872430
+    second: vidarojo_51
+  - first:
+      213: -6011797996251120305
+    second: vidarojo_52
+  - first:
+      213: 7771666315017359950
+    second: vidarojo_53
+  - first:
+      213: 7428011680549988103
+    second: vidarojo_54
+  - first:
+      213: -4929756930102680452
+    second: vidarojo_55
+  - first:
+      213: -9020551795392828069
+    second: vidarojo_56
+  - first:
+      213: -7291176200163836361
+    second: vidarojo_57
+  - first:
+      213: 4182917865256015529
+    second: vidarojo_58
+  - first:
+      213: 3153171562223789302
+    second: vidarojo_59
+  - first:
+      213: 5423876588376813948
+    second: vidarojo_60
+  - first:
+      213: 3298108562976582674
+    second: vidarojo_61
+  - first:
+      213: -153191157282991280
+    second: vidarojo_62
+  - first:
+      213: -4095443861493852602
+    second: vidarojo_63
+  - first:
+      213: 6212156522029079941
+    second: vidarojo_64
+  - first:
+      213: 8645778383768521670
+    second: vidarojo_65
+  - first:
+      213: 4638796856718940309
+    second: vidarojo_66
+  - first:
+      213: -7575782955527482366
+    second: vidarojo_67
+  - first:
+      213: -484798268957735179
+    second: vidarojo_68
+  - first:
+      213: -1891230645249664768
+    second: vidarojo_69
+  - first:
+      213: 1619318937597669660
+    second: vidarojo_70
+  - first:
+      213: 8732996478160155978
+    second: vidarojo_71
+  - first:
+      213: 4954732490219863917
+    second: vidarojo_72
+  - first:
+      213: 1975824527492949338
+    second: vidarojo_73
+  - first:
+      213: -412185162299928257
+    second: vidarojo_74
+  - first:
+      213: 6911834757190596786
+    second: vidarojo_75
+  - first:
+      213: 8128823567903265552
+    second: vidarojo_76
+  - first:
+      213: 6115429562642609792
+    second: vidarojo_77
+  - first:
+      213: 4572512219387996151
+    second: vidarojo_78
+  - first:
+      213: 2609393184190622163
+    second: vidarojo_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vidarojo_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 237
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765243a2fb0e4d4a0800000000000000
+      internalID: -6569378844775275161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4eb16573c0c3160800000000000000
+      internalID: 7006488552089052321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770b2da6764fb8ac0800000000000000
+      internalID: -3851716331274325897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 215
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809b767543150f50800000000000000
+      internalID: 6846899997548187779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e152d599cd0cc10800000000000000
+      internalID: 2071898379841248830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 204
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5336c39c92444f260800000000000000
+      internalID: 7130399056294863669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fab681890983310800000000000000
+      internalID: 1385015868335566631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d81eb43d70f16e0800000000000000
+      internalID: -1864763116615529120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 193
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38c93fbdfa13110800000000000000
+      internalID: 1238964731723416533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec3358682b1ad30800000000000000
+      internalID: 4441026998394146443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 174
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ea3ae0e10ba750800000000000000
+      internalID: 6317144967831281918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 171
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3988288bddc0ae0800000000000000
+      internalID: -1581645584580176911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 171
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb3fecdf65c5dff0800000000000000
+      internalID: -11886339759850513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1757f4e347ac39860800000000000000
+      internalID: 7535589202131383665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bdffc3d3f6fa1d0800000000000000
+      internalID: -3337326490051159153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3473b9f3f2b148080800000000000000
+      internalID: -9186187450184419517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 137
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d02589b6e014a80800000000000000
+      internalID: -8484484367709500092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 149
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d33b1131191880800000000000000
+      internalID: -8639855507526135096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5948a6fd91053cf0800000000000000
+      internalID: -273310424426329762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c1e6c5efceb550800000000000000
+      internalID: 6178604324590044405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311eda0a93517060800000000000000
+      internalID: 6949427621081780531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80f3f32f785bbf0800000000000000
+      internalID: -309191524892079933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a774d9bacf2875260800000000000000
+      internalID: 7086276560413345658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ea95ef42130500800000000000000
+      internalID: 361152529483621801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 137
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1fdfa56f21bd970800000000000000
+      internalID: 8780632747786760644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5a3b44bb5c1460800000000000000
+      internalID: 7213741533055049092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21d6afe1a3321e20800000000000000
+      internalID: 3319772645928915244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1bd6c757783e3e0800000000000000
+      internalID: -2025626468718104103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3f4d505d91e620800000000000000
+      internalID: 2801693411689577789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf9270ad4e2f600800000000000000
+      internalID: 500714133665741985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5d83c40eb2b5e90800000000000000
+      internalID: -7035981750484806189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 126
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa028a0f3bfd590800000000000000
+      internalID: -7647195796057576715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f412a9f459f3e0800000000000000
+      internalID: -2019489526756084512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175fe464b878eb140800000000000000
+      internalID: 4737372890290124145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c4011993e83150800000000000000
+      internalID: 5852677962322985888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3791491d3cebdf0800000000000000
+      internalID: -162477231638481998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94421341d0220dc50800000000000000
+      internalID: 6687882886213870665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100047737aea9780800000000000000
+      internalID: -8675363950533017582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 116
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771350dd2ed7ea120800000000000000
+      internalID: 2427015662523462007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165614147d81d450800000000000000
+      internalID: 6111821699011204632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e6d0ec94d353b0800000000000000
+      internalID: -5524838547601301197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adba4b3acc9f3940800000000000000
+      internalID: 5278109680693591465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871e31411c40f660800000000000000
+      internalID: 7417512223271950208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0082e9ca6dbd52b0800000000000000
+      internalID: -5594106895773040630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caeac138d92facf0800000000000000
+      internalID: -238926246702290235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b786fe171ab0841c0800000000000000
+      internalID: -4519349438037137285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d2f148306ae37e0800000000000000
+      internalID: -1783805868360389254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0849ac4a0c2e03020800000000000000
+      internalID: 2319603125122143360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a8a045a1fe31a0800000000000000
+      internalID: -6827754292990402378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3462ffaf00c910100800000000000000
+      internalID: 72510597039597123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d2c712a343f9bd0800000000000000
+      internalID: -2621319033831805593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_51
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 90
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e639da76eb4ff0a30800000000000000
+      internalID: 4183831677470872430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dfb04039dc19ca0800000000000000
+      internalID: -6011797996251120305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e429a7366518adb60800000000000000
+      internalID: 7771666315017359950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70762a6a449951760800000000000000
+      internalID: 7428011680549988103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a538e03cf59bb0800000000000000
+      internalID: -4929756930102680452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d299d5fef80d280800000000000000
+      internalID: -9020551795392828069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb37250e980da90800000000000000
+      internalID: -7291176200163836361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 79
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6583be2a5bc0a30800000000000000
+      internalID: 4182917865256015529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4663264d052cb20800000000000000
+      internalID: 3153171562223789302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71f1cb250b754b40800000000000000
+      internalID: 5423876588376813948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ca4ee834c35cd20800000000000000
+      internalID: 3298108562976582674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_62
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0539a6f3471cfddf0800000000000000
+      internalID: -153191157282991280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646da1ea18f0a27c0800000000000000
+      internalID: -4095443861493852602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 68
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d5ba08173063650800000000000000
+      internalID: 6212156522029079941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb064bf1a9fbf770800000000000000
+      internalID: 8645778383768521670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5985eede921506040800000000000000
+      internalID: 4638796856718940309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20453584a896dd690800000000000000
+      internalID: -7575782955527482366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6cc0ffa86a549f0800000000000000
+      internalID: -484798268957735179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099f819fbff0c5e0800000000000000
+      internalID: -1891230645249664768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1172958ef9f87610800000000000000
+      internalID: 1619318937597669660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4539790706d13970800000000000000
+      internalID: 8732996478160155978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f34a4d2feb2c440800000000000000
+      internalID: 4954732490219863917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 46
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55a8bb70f98b6b10800000000000000
+      internalID: 1975824527492949338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 36
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f311d6b57cf974af0800000000000000
+      internalID: -412185162299928257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_75
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b83b885715cbef50800000000000000
+      internalID: 6911834757190596786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01392b677f16fc070800000000000000
+      internalID: 8128823567903265552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 24
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0863c3a49ce5ed450800000000000000
+      internalID: 6115429562642609792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_78
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f721c723a3d47f30800000000000000
+      internalID: 4572512219387996151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vidarojo_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 13
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e10f964d663420800000000000000
+      internalID: 2609393184190622163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vidarojo_0: -6569378844775275161
+      vidarojo_1: 7006488552089052321
+      vidarojo_10: 6317144967831281918
+      vidarojo_11: -1581645584580176911
+      vidarojo_12: -11886339759850513
+      vidarojo_13: 7535589202131383665
+      vidarojo_14: -3337326490051159153
+      vidarojo_15: -9186187450184419517
+      vidarojo_16: -8484484367709500092
+      vidarojo_17: -8639855507526135096
+      vidarojo_18: -273310424426329762
+      vidarojo_19: 6178604324590044405
+      vidarojo_2: -3851716331274325897
+      vidarojo_20: 6949427621081780531
+      vidarojo_21: -309191524892079933
+      vidarojo_22: 7086276560413345658
+      vidarojo_23: 361152529483621801
+      vidarojo_24: 8780632747786760644
+      vidarojo_25: 7213741533055049092
+      vidarojo_26: 3319772645928915244
+      vidarojo_27: -2025626468718104103
+      vidarojo_28: 2801693411689577789
+      vidarojo_29: 500714133665741985
+      vidarojo_3: 6846899997548187779
+      vidarojo_30: -7035981750484806189
+      vidarojo_31: -7647195796057576715
+      vidarojo_32: -2019489526756084512
+      vidarojo_33: 4737372890290124145
+      vidarojo_34: 5852677962322985888
+      vidarojo_35: -162477231638481998
+      vidarojo_36: 6687882886213870665
+      vidarojo_37: -8675363950533017582
+      vidarojo_38: 2427015662523462007
+      vidarojo_39: 6111821699011204632
+      vidarojo_4: 2071898379841248830
+      vidarojo_40: -5524838547601301197
+      vidarojo_41: 5278109680693591465
+      vidarojo_42: 7417512223271950208
+      vidarojo_43: -5594106895773040630
+      vidarojo_44: -238926246702290235
+      vidarojo_45: -4519349438037137285
+      vidarojo_46: -1783805868360389254
+      vidarojo_47: 2319603125122143360
+      vidarojo_48: -6827754292990402378
+      vidarojo_49: 72510597039597123
+      vidarojo_5: 7130399056294863669
+      vidarojo_50: -2621319033831805593
+      vidarojo_51: 4183831677470872430
+      vidarojo_52: -6011797996251120305
+      vidarojo_53: 7771666315017359950
+      vidarojo_54: 7428011680549988103
+      vidarojo_55: -4929756930102680452
+      vidarojo_56: -9020551795392828069
+      vidarojo_57: -7291176200163836361
+      vidarojo_58: 4182917865256015529
+      vidarojo_59: 3153171562223789302
+      vidarojo_6: 1385015868335566631
+      vidarojo_60: 5423876588376813948
+      vidarojo_61: 3298108562976582674
+      vidarojo_62: -153191157282991280
+      vidarojo_63: -4095443861493852602
+      vidarojo_64: 6212156522029079941
+      vidarojo_65: 8645778383768521670
+      vidarojo_66: 4638796856718940309
+      vidarojo_67: -7575782955527482366
+      vidarojo_68: -484798268957735179
+      vidarojo_69: -1891230645249664768
+      vidarojo_7: -1864763116615529120
+      vidarojo_70: 1619318937597669660
+      vidarojo_71: 8732996478160155978
+      vidarojo_72: 4954732490219863917
+      vidarojo_73: 1975824527492949338
+      vidarojo_74: -412185162299928257
+      vidarojo_75: 6911834757190596786
+      vidarojo_76: 8128823567903265552
+      vidarojo_77: 6115429562642609792
+      vidarojo_78: 4572512219387996151
+      vidarojo_79: 2609393184190622163
+      vidarojo_8: 1238964731723416533
+      vidarojo_9: 4441026998394146443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
