@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 9ae42c62e2bb4f04589e428f56db10be
+guid: 6a5667dd3fe1c5b4b821ce21b4fc8555
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5196008333966266954
-    second: "gaucho DA\xD1O-Sheet_0"
+      213: 5006463096370413784
+    second: gaucho_0
   - first:
-      213: 8919713680160970589
-    second: "gaucho DA\xD1O-Sheet_1"
+      213: -2609660193219035334
+    second: gaucho_1
   - first:
-      213: 2291158970437012569
-    second: "gaucho DA\xD1O-Sheet_2"
+      213: 4279654595314221633
+    second: gaucho_2
+  - first:
+      213: -898883731322920328
+    second: gaucho_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,67 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_0"
+      name: gaucho_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1
-        width: 30
-        height: 34
+        x: 1
+        y: 13
+        width: 10
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a425704dc0eeb1840800000000000000
-      internalID: 5196008333966266954
+      spriteID: 8d0c24829a78a7540800000000000000
+      internalID: 5006463096370413784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_1"
+      name: gaucho_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 1
-        width: 39
-        height: 34
+        x: 14
+        y: 19
+        width: 7
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d57df2c555039cb70800000000000000
-      internalID: 8919713680160970589
+      spriteID: a3fb3be71ef98cbd0800000000000000
+      internalID: -2609660193219035334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_2"
+      name: gaucho_2
       rect:
         serializedVersion: 2
-        x: 84
-        y: 1
-        width: 39
-        height: 34
+        x: 21
+        y: 13
+        width: 10
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95c09dcc1f4dbcf10800000000000000
-      internalID: 2291158970437012569
+      spriteID: 142821b0e23646b30800000000000000
+      internalID: 4279654595314221633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaucho_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872ae1442068683f0800000000000000
+      internalID: -898883731322920328
       vertices: []
       indices: 
       edges: []
@@ -175,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 21046d67c16e7fc46b41bccefc91d5b2
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "gaucho DA\xD1O-Sheet_0": 5196008333966266954
-      "gaucho DA\xD1O-Sheet_1": 8919713680160970589
-      "gaucho DA\xD1O-Sheet_2": 2291158970437012569
+      gaucho_0: 5006463096370413784
+      gaucho_1: -2609660193219035334
+      gaucho_2: 4279654595314221633
+      gaucho_3: -898883731322920328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

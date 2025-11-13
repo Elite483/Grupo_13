@@ -1,16 +1,28 @@
 fileFormatVersion: 2
-guid: 9ae42c62e2bb4f04589e428f56db10be
+guid: 50bf8c7261308bd428d5456cfaf43133
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5196008333966266954
-    second: "gaucho DA\xD1O-Sheet_0"
+      213: -5388736041511265155
+    second: disparo muerte_0
   - first:
-      213: 8919713680160970589
-    second: "gaucho DA\xD1O-Sheet_1"
+      213: 918618489252300146
+    second: disparo muerte_1
   - first:
-      213: 2291158970437012569
-    second: "gaucho DA\xD1O-Sheet_2"
+      213: 5953944904132026699
+    second: disparo muerte_2
+  - first:
+      213: 1685448168749431448
+    second: disparo muerte_3
+  - first:
+      213: -844236335355914679
+    second: disparo muerte_4
+  - first:
+      213: -5921576383189155018
+    second: disparo muerte_5
+  - first:
+      213: -5793750521847125049
+    second: disparo muerte_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -57,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,7 +93,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -106,13 +118,101 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_0"
+      name: disparo muerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c5069fe1d5735b0800000000000000
+      internalID: -5388736041511265155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo muerte_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2754dff16a69fbc00800000000000000
+      internalID: 918618489252300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo muerte_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41690f4859a0a250800000000000000
+      internalID: 5953944904132026699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo muerte_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a74a9fd2ae36710800000000000000
+      internalID: 1685448168749431448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo muerte_4
       rect:
         serializedVersion: 2
         x: 7
-        y: 1
-        width: 30
-        height: 34
+        y: 117
+        width: 17
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a425704dc0eeb1840800000000000000
-      internalID: 5196008333966266954
+      spriteID: 94612a4a68ba844f0800000000000000
+      internalID: -844236335355914679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_1"
+      name: disparo muerte_5
       rect:
         serializedVersion: 2
-        x: 42
-        y: 1
-        width: 39
-        height: 34
+        x: 7
+        y: 3
+        width: 15
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d57df2c555039cb70800000000000000
-      internalID: 8919713680160970589
+      spriteID: 6330ba147a552dda0800000000000000
+      internalID: -5921576383189155018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_2"
+      name: disparo muerte_6
       rect:
         serializedVersion: 2
-        x: 84
-        y: 1
-        width: 39
-        height: 34
+        x: 17
+        y: 90
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +265,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95c09dcc1f4dbcf10800000000000000
-      internalID: 2291158970437012569
+      spriteID: 7cb6114d896789fa0800000000000000
+      internalID: -5793750521847125049
       vertices: []
       indices: 
       edges: []
@@ -185,9 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "gaucho DA\xD1O-Sheet_0": 5196008333966266954
-      "gaucho DA\xD1O-Sheet_1": 8919713680160970589
-      "gaucho DA\xD1O-Sheet_2": 2291158970437012569
+      disparo muerte_0: -5388736041511265155
+      disparo muerte_1: 918618489252300146
+      disparo muerte_2: 5953944904132026699
+      disparo muerte_3: 1685448168749431448
+      disparo muerte_4: -844236335355914679
+      disparo muerte_5: -5921576383189155018
+      disparo muerte_6: -5793750521847125049
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
