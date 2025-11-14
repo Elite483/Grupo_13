@@ -1,16 +1,28 @@
 fileFormatVersion: 2
-guid: 9ae42c62e2bb4f04589e428f56db10be
+guid: 00d0189a7d84d2b498fd29d2d1b915eb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5196008333966266954
-    second: "gaucho DA\xD1O-Sheet_0"
+      213: -7179769133939746516
+    second: soldado muerte2_0
   - first:
-      213: 8919713680160970589
-    second: "gaucho DA\xD1O-Sheet_1"
+      213: 8024543446703597981
+    second: soldado muerte2_1
   - first:
-      213: 2291158970437012569
-    second: "gaucho DA\xD1O-Sheet_2"
+      213: -6091717963888031071
+    second: soldado muerte2_2
+  - first:
+      213: 2711295743086672826
+    second: soldado muerte2_3
+  - first:
+      213: -1753204206352721866
+    second: soldado muerte2_4
+  - first:
+      213: 8490534113784615389
+    second: soldado muerte2_5
+  - first:
+      213: -65514298242287398
+    second: soldado muerte2_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -57,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,7 +93,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -106,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_0"
+      name: soldado muerte2_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1
-        width: 30
-        height: 34
+        x: 0
+        y: 0
+        width: 33
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a425704dc0eeb1840800000000000000
-      internalID: 5196008333966266954
+      spriteID: c29153243065c5c90800000000000000
+      internalID: -7179769133939746516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_1"
+      name: soldado muerte2_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 1
-        width: 39
-        height: 34
+        x: 33
+        y: 0
+        width: 40
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d57df2c555039cb70800000000000000
-      internalID: 8919713680160970589
+      spriteID: d99e479bfb7ec5f60800000000000000
+      internalID: 8024543446703597981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_2"
+      name: soldado muerte2_2
       rect:
         serializedVersion: 2
-        x: 84
-        y: 1
-        width: 39
-        height: 34
+        x: 73
+        y: 0
+        width: 40
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +177,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95c09dcc1f4dbcf10800000000000000
-      internalID: 2291158970437012569
+      spriteID: 1aa869289ced57ba0800000000000000
+      internalID: -6091717963888031071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado muerte2_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbb5bffc1570a520800000000000000
+      internalID: 2711295743086672826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado muerte2_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 9
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63810ad201e5ba7e0800000000000000
+      internalID: -1753204206352721866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado muerte2_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1d77daacf64d570800000000000000
+      internalID: 8490534113784615389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldado muerte2_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83f85c71f371ff0800000000000000
+      internalID: -65514298242287398
       vertices: []
       indices: 
       edges: []
@@ -185,9 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "gaucho DA\xD1O-Sheet_0": 5196008333966266954
-      "gaucho DA\xD1O-Sheet_1": 8919713680160970589
-      "gaucho DA\xD1O-Sheet_2": 2291158970437012569
+      soldado muerte2_0: -7179769133939746516
+      soldado muerte2_1: 8024543446703597981
+      soldado muerte2_2: -6091717963888031071
+      soldado muerte2_3: 2711295743086672826
+      soldado muerte2_4: -1753204206352721866
+      soldado muerte2_5: 8490534113784615389
+      soldado muerte2_6: -65514298242287398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

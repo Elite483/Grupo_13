@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 9ae42c62e2bb4f04589e428f56db10be
+guid: 6c8355939db4a86459a9f7380e613dad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5196008333966266954
-    second: "gaucho DA\xD1O-Sheet_0"
+      213: -1747475472008456614
+    second: campamento-Sheet_0
   - first:
-      213: 8919713680160970589
-    second: "gaucho DA\xD1O-Sheet_1"
+      213: -5409830514068933416
+    second: campamento-Sheet_1
   - first:
-      213: 2291158970437012569
-    second: "gaucho DA\xD1O-Sheet_2"
+      213: -4429370815145704487
+    second: campamento-Sheet_2
+  - first:
+      213: -9130202640782431901
+    second: campamento-Sheet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,67 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_0"
+      name: campamento-Sheet_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1
-        width: 30
-        height: 34
+        x: 0
+        y: 48
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a425704dc0eeb1840800000000000000
-      internalID: 5196008333966266954
+      spriteID: a565a351158bfb7e0800000000000000
+      internalID: -1747475472008456614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_1"
+      name: campamento-Sheet_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 1
-        width: 39
-        height: 34
+        x: 0
+        y: 32
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d57df2c555039cb70800000000000000
-      internalID: 8919713680160970589
+      spriteID: 8d43ad95fcb6ce4b0800000000000000
+      internalID: -5409830514068933416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_2"
+      name: campamento-Sheet_2
       rect:
         serializedVersion: 2
-        x: 84
-        y: 1
-        width: 39
-        height: 34
+        x: 0
+        y: 16
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95c09dcc1f4dbcf10800000000000000
-      internalID: 2291158970437012569
+      spriteID: 9d302c026b6b782c0800000000000000
+      internalID: -4429370815145704487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campamento-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36964d472110b4180800000000000000
+      internalID: -9130202640782431901
       vertices: []
       indices: 
       edges: []
@@ -175,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a0e728b124b6e5f43a5b3cdd0240daef
     internalID: 0
     vertices: []
     indices: 
@@ -183,11 +208,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      "gaucho DA\xD1O-Sheet_0": 5196008333966266954
-      "gaucho DA\xD1O-Sheet_1": 8919713680160970589
-      "gaucho DA\xD1O-Sheet_2": 2291158970437012569
+      campamento-Sheet_0: -1747475472008456614
+      campamento-Sheet_1: -5409830514068933416
+      campamento-Sheet_2: -4429370815145704487
+      campamento-Sheet_3: -9130202640782431901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 9ae42c62e2bb4f04589e428f56db10be
+guid: 3f01597902ce3d94ea87c6b2c7bcee60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5196008333966266954
-    second: "gaucho DA\xD1O-Sheet_0"
+      213: 872741664162786686
+    second: disparador giro_0
   - first:
-      213: 8919713680160970589
-    second: "gaucho DA\xD1O-Sheet_1"
+      213: -8769455074155547642
+    second: disparador giro_1
   - first:
-      213: 2291158970437012569
-    second: "gaucho DA\xD1O-Sheet_2"
+      213: -3796450101010689400
+    second: disparador giro_2
+  - first:
+      213: 3161911009690072338
+    second: disparador giro_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,67 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_0"
+      name: disparador giro_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1
-        width: 30
-        height: 34
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a425704dc0eeb1840800000000000000
-      internalID: 5196008333966266954
+      spriteID: e7d2b196be99c1c00800000000000000
+      internalID: 872741664162786686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_1"
+      name: disparador giro_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 1
-        width: 39
-        height: 34
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d57df2c555039cb70800000000000000
-      internalID: 8919713680160970589
+      spriteID: 60436379213ac4680800000000000000
+      internalID: -8769455074155547642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "gaucho DA\xD1O-Sheet_2"
+      name: disparador giro_2
       rect:
         serializedVersion: 2
-        x: 84
-        y: 1
-        width: 39
-        height: 34
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95c09dcc1f4dbcf10800000000000000
-      internalID: 2291158970437012569
+      spriteID: 88213c16fbc405bc0800000000000000
+      internalID: -3796450101010689400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparador giro_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21539ff8f4d51eb20800000000000000
+      internalID: 3161911009690072338
       vertices: []
       indices: 
       edges: []
@@ -175,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 831952e0d8994cb44b13310d1c1a585c
     internalID: 0
     vertices: []
     indices: 
@@ -183,11 +208,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      "gaucho DA\xD1O-Sheet_0": 5196008333966266954
-      "gaucho DA\xD1O-Sheet_1": 8919713680160970589
-      "gaucho DA\xD1O-Sheet_2": 2291158970437012569
+      disparador giro_0: 872741664162786686
+      disparador giro_1: -8769455074155547642
+      disparador giro_2: -3796450101010689400
+      disparador giro_3: 3161911009690072338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
